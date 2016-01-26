@@ -1,0 +1,200 @@
+*{
+	margin: 0px;
+	padding: 20px;
+}
+
+
+header{
+	padding: 15px 0;
+	margin:0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background:#333;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+nav li: hover a{ /*hover es para que cuando pases por encima se ntara el color que se le añadio*/
+	background: #585858;
+
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15p;
+	color: #eee;
+	margin-left: 170px;
+	margin-right: -140px;
+	text-shadow: 2px 2px 4px #000;/*shadow hace sombrita*/
+	font-family: arial;
+}
+
+nav a:hover{
+	color: #fff;
+}
+
+.s1{
+	width: 190px;
+	height: 190px;
+	border:3px solid #EEEEEE;
+	border:2px solid grey;
+	padding: 1px ;
+	background: white;
+}
+
+.uno{
+	background: #EEEEEE;
+	height: 300px;
+	padding-top: 20px;
+	border-bottom: 3px solid #BBBBBB;
+}
+
+h5{
+	float: right;
+	margin-right: 1190px;
+	margin-top: -44px;
+	color: #5090CE;
+	position: relative;
+}
+
+.uno p{
+	margin-bottom: 25px;
+	font-family: arial;
+	margin-left: 550px;
+position: relative;
+}
+
+a{
+	text-decoration: none;
+	color:blue;
+}
+
+.row{
+	text-align: center;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.s2{
+	width: 100px;
+	height: 100px;
+	border:2px solid grey;
+	padding: 2px ;
+	background: white;
+}
+
+.tres{
+	padding-top: 50px;
+	margin-left: 300px;
+	position: relative;
+	left: 30px;
+	padding-bottom: 50px;
+
+}
+.parte{
+	width: 335px;
+	float: right;
+	margin-top: 30px;
+}
+.im1 img{
+	margin-top: 10px;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+hr{
+	width: 255px;
+	background: red;
+	border: -1px solid grey;
+	margin-top: 5px;
+	margin-left: 110px;
+	margin-bottom: 10px;
+}
+
+.parte a{
+	float: left;
+	margin-left: 125px;
+	margin-top: -20px;
+	width: 120px;
+
+}
+
+.im1{
+	margin-left: 25px;
+	margin-right: 100px;
+}
+
+#im1{
+	margin-left: -13px;
+}
+
+#im2{
+	margin-left: -7px;
+}
+
+b{
+	float: left;
+	margin-left: 110px;
+}
+.parte1 {
+	float: left;
+	margin-top: 10px;
+	width: 200px;
+	text-align: left;
+	padding-bottom: 5px;
+}
+
+.parte1 hr{
+	margin-left: -12px;
+}
+
+footer{
+	height: 250px;
+	color: #fff;
+	background:#585858;
+}
+
+.cuatro{
+	padding-top: 30px;
+}
+
+.cuatro h5{
+	top:20px;
+	margin: auto;
+	color:#AFBCB4;
+	left: -200px;
+}
+.cuatro  nav{
+	position: relative;
+	float: left;
+	margin-left: -210px;
+	width: 900px;
+	color: #6A6461;
+}
+.cuatro p{
+	padding-top: 15px;
+}
+.cuatro a{
+	color: #B1C3C2;
+}
